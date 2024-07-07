@@ -10,7 +10,7 @@
 
    pip install -r req.txt
 
-4) Run Project:
+4) Migrate Database:
 
    cd applogiq
    	
@@ -23,7 +23,13 @@
    
    python manage.py shell_plus --lab --no-browser
 
-6) Run Jupyter note name as 
+6) Run Jupyter note name as "h17tojson.ipynb"
+   
+7) Run Project:
+
+   python manage.py runserver
+
+
    
    
 
