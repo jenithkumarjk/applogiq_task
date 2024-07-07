@@ -22,6 +22,8 @@
 5) Start Jupyter Notebook with Django Shell:
    
    python manage.py shell_plus --lab --no-browser
+
+6) Run Jupyter note name as 
    
    
 
