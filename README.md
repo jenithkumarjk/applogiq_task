@@ -23,7 +23,7 @@
    
    python manage.py shell_plus --lab --no-browser
 
-6) Run Jupyter note name as "h17tojson.ipynb"
+6) Run Jupyter note name as "h17todata.ipynb"
    
 7) Run Project:
 
